@@ -25,6 +25,12 @@ var games = [
     'image': 'assets/addicon.png'
   },
   {
+    'id': 'bloxors',
+    'title': 'Bloxors',
+    'url': 'https://bloxorz.io/',
+    'image': 'https://bloxorz.io/upload/imgs/options/bloxorz.png'
+  }, 
+  {
     'id': 'idlebreakout',
     'title': 'Idle Breakout',
     'url': 'https://glitchyeet.github.io/IdleBreakout/',
